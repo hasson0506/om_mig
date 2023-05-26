@@ -1,0 +1,4 @@
+function startquiz() {
+
+    alert("hej");
+}
